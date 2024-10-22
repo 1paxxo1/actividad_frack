@@ -7,3 +7,7 @@ comandos de git aprendidos
 6.git config user.name 
 7.git config user.email
 8.git remote add 
+9.git branch -M main
+10.git push -u origin main
+11.git config credential.username
+13.git config credential.email
