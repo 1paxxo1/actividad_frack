@@ -1,4 +1,4 @@
-comandos de git hub 
+comandos de git aprendidos
 1.git init
 2.git status
 3.git log
