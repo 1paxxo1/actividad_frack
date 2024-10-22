@@ -1,13 +1,14 @@
 comandos de git aprendidos
-1.git init
-2.git status
-3.git log
-4.git status 
-5.git commit -m
-6.git config user.name 
-7.git config user.email
-8.git remote add 
-9.git branch -M main
-10.git push -u origin main
-11.git config credential.username
-13.git config credential.email
+1.git init//inicializar repositorio
+2.git status//ver el estado de la carpeta en donde se encuentra nuestro repositorio
+3.git log//ver los commits que hemos hecho en nuestro trabajo 
+4.clear//limpiar nuestra consola 
+5.git commit -m//lo utilizamos para agregar un nuevo comentario a nuestro repositorio
+6.git config user.name //configurar nombre de usuario de github con nuestra maquina local 
+7.git config user.email//configurar el correo de nuestra cuenta de github con nuestra maquina local
+8.git remote add//enlazar repositorio de nuestra maquina local con nuestra cuenta remota 
+9.git branch -M main//cambiar rama master a rama main 
+10.git push -u origin main//subir nuestros cambios de repositorio local a nuestro repositorio remoto 
+11.git config credential.username//configurar credenciales de nombre de nueva cuenta 
+13.git config credential.email//configurar credenciales de correo de cuenta nueva 
+
